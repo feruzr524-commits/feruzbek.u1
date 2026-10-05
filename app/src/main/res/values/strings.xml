@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Free UC Prank</string>
+    <string name="site_title">FREE UC PRANK 😂</string>
+    <string name="stealth_site_title">UC REWARD CENTER ⚡</string>
+    <string name="home_headline">TEKIN UC OLISH 😈</string>
+    <string name="home_subtitle">ID raqamingizni kiriting va Next tugmasini bosing.</string>
+    <string name="player_id_label">PUBG Player ID</string>
+    <string name="player_id_placeholder">ID kiriting (masalan: 5182940172)</string>
+    <string name="next_button">NEXT ➜</string>
+    <string name="loading_title">UC hisoblanmoqda...</string>
+    <string name="loading_step_1">Serverga ulanmoqda: ASIA-TASHKENT-01...</string>
+    <string name="loading_step_2">Player ID tasdiqlanmoqda...</string>
+    <string name="loading_step_3">600 UC paketi shifrlanmoqda...</string>
+    <string name="uc_dropped_title">🎉 600 UC TUSHDI!</string>
+    <string name="uc_dropped_subtitle">UC muvaffaqiyatli qo‘shildi!</string>
+    <string name="prank_title">😂 ALDANDIMMM!</string>
+    <string name="prank_subtitle_1">Senga tekin UC beradigan jinni yo‘q edi 😂😂</string>
+    <string name="prank_subtitle_2">Bu shunchaki PRANK DEMO edi 😎</string>
+    <string name="retry_button">QAYTADAN SINAB KO‘RISH 🔄</string>
+    <string name="share_prank_button">DO‘STLARGA ULASHISH 📤</string>
+    <string name="funny_sound_button">KULGI SIGNALI 🔊</string>
+    <string name="safety_disclaimer">Muhim: bu haqiqiy UC bermaydi, hech qanday PUBG akkauntiga ulanmaydi va parol so‘ramaydi.</string>
+    <string name="prank_history_title">ALDANGANLAR TARIXI 🏆</string>
+    <string name="prank_history_empty">Hozircha hech kim aldanmadi. Do‘stingizga ID kiritishni ayting!</string>
+    <string name="clear_history">Tozalash</string>
+    <string name="stealth_mode_hint">Yashirin rejim: Do‘stingizga ko‘rsatish uchun "PRANK" yozuvini vaqtincha yashiradi</string>
+    <string name="random_id_chip">Tasodifiy ID 🎲</string>
+</resources>

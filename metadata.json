@@ -1,0 +1,6 @@
+{
+  "name": "Free UC Prank",
+  "description": "PUBG Mobile uslubida kulgili FREE UC PRANK demo ilovasi. Haqiqiy UC bermaydi, akkauntga ulanmaydi va parol so'ramaydi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
